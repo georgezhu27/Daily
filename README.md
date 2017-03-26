@@ -432,7 +432,31 @@ https://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652390947&idx=1&sn=fda280
 Python 操作 MongoDB
 http://www.cnblogs.com/hhh5460/p/5838516.html
 
+黑科技，老司机放码开车用Python等QQ邮箱发邮件
+https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247483700&idx=1&sn=b636352525c117b2490f7b4fd90dfa31&chksm=ec5ede49db29575f3df561d
+c1e3fc483bff01c484f9642f434cad6885110d9a83f5c0e2eddc5&mpshare=1&scene=23&srcid=0320geSLinwf5k3qtMvtZMm4#rd
 
+机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 1)
+注:机器学习资料篇目一共500条,篇目二开始更新
+https://github.com/ty4z2008/Qix/blob/master/dl.md#%E6%B3%A8%E6%9C%BA%E5%99%A8%E5%AD
+%A6%E4%B9%A0%E8%B5%84%E6%96%99%E7%AF%87%E7%9B%AE%E4%B8%80%E5%85%B1500%E6%9D%A1%E7%AF%87%E7%9B%AE%E4%BA%8C
+%E5%BC%80%E5%A7%8B%E6%9B%B4%E6%96%B0
+
+Python做文本情感分析之情感极性分析
+http://www.jianshu.com/p/4cfcf1610a73
+
+Python利用Gausian Process对Hyper-parameter进行调参
+http://www.jianshu.com/p/90e6abdeb4f2
+
+阿里移动推荐算法大赛总结---xidianycy
+http://blog.csdn.net/u014374284/article/details/49933487
+
+
+20170326：
+周志华最新论文挑战深度学习 | 深度森林：探索深度神经网络以外的方法
+http://mp.weixin.qq.com/s?src=3&timestamp=1490517302&ver=1&signature=TuAMvlukldb23hcWJPdVOp8P8bAFnBRM-
+EHMq2o2BzQLt0Kbu52N8*YsAAEUt73q9qfdBRGJ6VxxbeYP03UXkPQX7bEJMKai7uKUkU-BC0MFqN41GE2xoTWE- 
+EnX83h7VgD8HAqlbv4vM*Be0DAv4PzY1*dCoiSeYW2YUt3ncxw=
 
 
 
