@@ -453,8 +453,28 @@ http://blog.csdn.net/u014374284/article/details/49933487
 周志华最新论文挑战深度学习 | 深度森林：探索深度神经网络以外的方法
 http://mp.weixin.qq.com/s?src=3&timestamp=1490517302&ver=1&signature=TuAMvlukldb23hcWJPdVOp8P8bAFnBRM-EHMq2o2BzQLt0Kbu52N8*YsAAEUt73q9qfdBRGJ6VxxbeYP03UXkPQX7bEJMKai7uKUkU-BC0MFqN41GE2xoTWE-EnX83h7VgD8HAqlbv4vM*Be0DAv4PzY1*dCoiSeYW2YUt3ncxw=
 
+摩拜单车爬虫解析——找到API
+http://www.jianshu.com/p/07225f301fc4 或者 http://www.april1985.com/
 
 
+20170327：
+只需十四步：从零开始掌握Python机器学习（附资源）
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650724242&idx=1&sn=703d242700e29813d6c482daf6b211c5&chksm=871b13ecb06c9afa28f8aad729496620078985e4eae8a1296fc407dbd70c1d70fabb3b2817fa&mpshare=1&scene=23&srcid=0322K1XPYmccwF5tPSOdTypg#rd
+
+使用Python进行描述性统计
+http://www.cnblogs.com/jasonfreak/p/5441512.html
+
+模型融合方法概述（stacking讲的比较好）
+https://zhuanlan.zhihu.com/p/25836678
+
+Python爬虫入门实战八：数据储存——MongoDB与MySQL
+http://zmister.com/archives/100.html
+
+数据挖掘面试准备（1）|常见算法（logistic回归，随机森林，GBDT和xgboost）
+http://www.jianshu.com/p/d2109fcd8a2e
+
+Kaggle 入门指南
+https://zhuanlan.zhihu.com/p/25742261
 
 
 
