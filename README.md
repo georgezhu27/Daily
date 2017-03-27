@@ -476,6 +476,44 @@ http://www.jianshu.com/p/d2109fcd8a2e
 Kaggle 入门指南
 https://zhuanlan.zhihu.com/p/25742261
 
+Learn R | GBDT of Data Mining（三）---XGBoost
+https://zhuanlan.zhihu.com/p/25993218
+
+用python实现简单的文本情感分析
+http://www.jianshu.com/p/06a4a8e77315
+
+Ensemble_learning 集成学习算法 stacking 算法
+http://www.cnblogs.com/zhizhan/p/5051881.html
+
+Scrapy入门.md（崔庆才的GitHub）
+https://github.com/Germey/Python3WebSpider/blob/master/7.1.2-Scrapy%E5%85%A5%E9%97%A8.md
+
+GBDT迭代决策树入门教程
+http://www.cnblogs.com/peizhe123/p/5086128.html
+
+史上最全神经网络结构图画图工具介绍，没有之一！
+http://mp.weixin.qq.com/s?__biz=MzAxNTc0Mjg0Mg==&mid=2653284913&idx=1&sn=9673d5d7a8f0a6fb06f03c93ef137096&chksm=802e2824b759a132598fdfb12421145e0fc80e20bd1470515cc45337be5610a3e2d74bebaeb3&mpshare=1&scene=23&srcid=0327dWdUdJzZ0QQxOVAT5z4a#rd
+
+干货|阿里AI工程师教你如何用CNN RNN Attention解决大规模文本分类问题
+http://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247488340&idx=2&sn=5d456df992322752ab7c65798117bf9f&chksm=903ced4ca74b645a186c664941f83350932c883fc1db265103b840af7042bec5cc62923d7040&mpshare=1&scene=23&srcid=0327AJFRt8TXcAi7WVgl9S68#rd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
