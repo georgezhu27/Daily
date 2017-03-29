@@ -498,7 +498,12 @@ http://mp.weixin.qq.com/s?__biz=MzAxNTc0Mjg0Mg==&mid=2653284913&idx=1&sn=9673d5d
 http://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247488340&idx=2&sn=5d456df992322752ab7c65798117bf9f&chksm=903ced4ca74b645a186c664941f83350932c883fc1db265103b840af7042bec5cc62923d7040&mpshare=1&scene=23&srcid=0327AJFRt8TXcAi7WVgl9S68#rd
 
 
+20170328：
+Linux中crontab-定时任务命令
+http://www.cnblogs.com/candle806/archive/2011/12/15/2288491.html
 
+Python3 - 时间处理与定时任务
+http://www.pythontab.com/html/2013/pythonjichu_0119/146.html
 
 
 
