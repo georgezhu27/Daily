@@ -514,7 +514,11 @@ http://www.cnblogs.com/bicoffee/p/3838049.htm
 2017年3月历史文章汇总--- 机器学习研究会(20170329)
 https://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649677498&idx=5&sn=0e5171e5f639d35df778e0d7c0801045
 
+CentOS7.2+Python3x+Flask部署标准化配置流程
+https://zhuanlan.zhihu.com/p/24554242
 
+小技巧---Github 下载单个文件
+http://www.cnblogs.com/zhaoqingqing/p/5534827.html
 
 
 
