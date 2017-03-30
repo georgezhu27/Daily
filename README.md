@@ -507,6 +507,12 @@ http://www.pythontab.com/html/2013/pythonjichu_0119/146.html
 
 
 
+20170330：
+时间序列分析之ARIMA模型预测__R篇
+http://www.cnblogs.com/bicoffee/p/3838049.htm
+
+2017年3月历史文章汇总--- 机器学习研究会(20170329)
+https://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649677498&idx=5&sn=0e5171e5f639d35df778e0d7c0801045
 
 
 
