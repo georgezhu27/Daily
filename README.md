@@ -520,7 +520,22 @@ https://zhuanlan.zhihu.com/p/24554242
 小技巧---Github 下载单个文件
 http://www.cnblogs.com/zhaoqingqing/p/5534827.html
 
+京东JData算法大赛-高潜用户购买意向预测入门程序(starter code)---秦晓明
+https://github.com/daoliker/JData
 
+
+20170331：
+Python网络爬虫实战项目代码大全（长期更新，欢迎补充） – Python中文社区 – 知乎专栏
+https://seofangfa.com/other-note/python%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E4%BB%A3%E7%A0%81%E5%A4%A7%E5%85%A8%EF%BC%88%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0%EF%BC%8C%E6%AC%A2%E8%BF%8E%E8%A1%A5.html
+
+菜鸟学Python
+https://ask.hellobi.com/blog/caoniao_xueyuan
+
+jason's Techblog 讲一些机器学习方面的知识
+http://blog.jasonding.top/
+
+特征工程怎么做---来自[不会停的蜗牛][简书]
+http://www.jianshu.com/p/35135ab0a627
 
 
 
