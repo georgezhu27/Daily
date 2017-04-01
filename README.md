@@ -538,7 +538,15 @@ http://blog.jasonding.top/
 http://www.jianshu.com/p/35135ab0a627
 
 
+20170401：
+kaggle排名第一的owen zhang的github
+https://github.com/owenzhang
 
+Win10下XGBoost安装方法(本地python3.5和anaconda版)(XGboost可以一键安装，不用配置)---hhl未尝试
+https://mp.weixin.qq.com/s/oErMSPUbniyayEWPGv6Bvw
+
+干货|阿里AI工程师教你如何用CNN RNN Attention解决大规模文本分类问题
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247488340&idx=2&sn=5d456df992322752ab7c65798117bf9f
 
 
 
