@@ -549,7 +549,17 @@ https://mp.weixin.qq.com/s/oErMSPUbniyayEWPGv6Bvw
 https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247488340&idx=2&sn=5d456df992322752ab7c65798117bf9f
 
 
+20170402：
+PSO优化算法python包及其简介
+https://github.com/tisimst/pyswarm
+http://pythonhosted.org/pyswarm/
 
+机器学习各种算法怎么调参?
+（Random Forest和Gradient Tree Boosting这两个模型调参方法）
+https://www.zhihu.com/question/34470160/answer/114305935
+
+机器学习系列(11)_Python中Gradient Boosting Machine(GBM）调参方法详解
+http://blog.csdn.net/han_xiaoyang/article/details/52663170
 
 
 
