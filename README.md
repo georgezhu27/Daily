@@ -562,7 +562,23 @@ https://www.zhihu.com/question/34470160/answer/114305935
 http://blog.csdn.net/han_xiaoyang/article/details/52663170
 
 
+20170403：
+抓取指定知乎用户 followee 的头像
+https://github.com/ipreacher/tricks/tree/master/zhihu_img#zhihu_img
 
+【资源】只需十四步：从零开始掌握Python机器学习
+https://mp.weixin.qq.com/s?__biz=MzAxMzA2MDYxMw==&mid=2651560222&idx=1&sn=72f8d0ffd7b391e7a40336e8957130e3
+Learn R | 机器学习中的分类器评价（ROC与AUC的R实现）
+https://zhuanlan.zhihu.com/p/26106488
+
+用Python实现文档聚类
+http://python.jobbole.com/85481/
+
+python/pandas数据挖掘（十四）-groupby,聚合，分组级运算
+http://blog.csdn.net/youngbit007/article/details/54288603
+
+pandas使用笔记
+http://blog.csdn.net/youngbit007/article/details/53072718
 
 
 
