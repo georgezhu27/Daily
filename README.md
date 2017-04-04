@@ -582,7 +582,18 @@ http://blog.csdn.net/youngbit007/article/details/53072718
 
 
 
+20170404：
+Awesome XGBoost
+https://github.com/dmlc/xgboost/tree/master/demo
 
+机器学习中，有哪些特征选择的工程方法？
+https://www.zhihu.com/question/28641663
+
+使用sklearn做单机特征工程
+http://www.cnblogs.com/jasonfreak/p/5448385.html
+
+聚类分析中几种算法的比较
+http://blog.csdn.net/jiary5201314/article/details/18225121
 
 
 
