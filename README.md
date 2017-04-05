@@ -581,7 +581,6 @@ pandas使用笔记
 http://blog.csdn.net/youngbit007/article/details/53072718
 
 
-
 20170404：
 Awesome XGBoost
 https://github.com/dmlc/xgboost/tree/master/demo
@@ -596,7 +595,17 @@ http://www.cnblogs.com/jasonfreak/p/5448385.html
 http://blog.csdn.net/jiary5201314/article/details/18225121
 
 
+20170405：
+Python·Jupyter Notebook各种使用方法记录·持续更新
+http://blog.csdn.net/tina_ttl/article/details/51031113
 
+【机器学习实验】使用朴素贝叶斯进行文本的分类
+http://www.jianshu.com/p/845b16559431
+
+PSO和GA的比较 
+http://blog.sina.com.cn/s/blog_7423cd260102vty3.html
+进化算法、遗传算法与粒子群算法之间的比较
+http://blog.csdn.net/hehainan_86/article/details/38398031
 
 
 
