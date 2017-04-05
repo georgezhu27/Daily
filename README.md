@@ -607,6 +607,8 @@ http://blog.sina.com.cn/s/blog_7423cd260102vty3.html
 进化算法、遗传算法与粒子群算法之间的比较
 http://blog.csdn.net/hehainan_86/article/details/38398031
 
+王亨的博客---跟着菜鸟一起学R语言(很多R语言技能分享)
+http://blog.csdn.net/wzgl__wh
 
 
 
