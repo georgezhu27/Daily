@@ -124,10 +124,10 @@ http://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651641033&idx=2&sn=6895897
 https://github.com/xianhu/LearnPython
 
 数据脱口秀 | 从腼腆印度男孩到谷歌CEO, Sundar Pichai重回母校
-http://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651647279&idx=2&sn=c4b01a08d6760a3b8946a5a7bec707fe&chksm=bd4dcabc8a3a43aa77d45332b4c969e1251de4075003997584eadcb8fbbc56cbb890dc98fa3e&mpshare=1&scene=23&srcid=0117jM4BAxGqSi9BZtPICoc1#rd
+https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651647279&idx=2&sn=c4b01a08d6760a3b8946a5a7bec707fe
 
 Youtube爆火视频 | 用TensorFlow+40行代码识别手写数字图像
-http://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651647305&idx=1&sn=8afa4ea9019c5aaef70a1311afdf505d&chksm=bd4dcada8a3a43cce2cfbd2ddcf4605ac3bc5db6cbc90d9df1d3c7ccb53c2586297ba1dc3324&mpshare=1&scene=23&srcid=0117NdmOLIqhrq0NZ2xyO68s#rd
+https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651647305&idx=1&sn=8afa4ea9019c5aaef70a1311afdf505d
 
 研究上千张数据图表后 我学到12条可视化的秘密准则 | 附资源
 http://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651647207&idx=1&sn=05803530428bb5ca6d65783b51d72ea7&chksm=bd4dcb748a3a426286c899fbd1ede844512c0cec40f3185ecdbf308c2ea105f2860d659bd8a3&mpshare=1&scene=23&srcid=0117GE8p5DZmCH6avhTdexWT#rd
