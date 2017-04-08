@@ -130,10 +130,10 @@ Youtube爆火视频 | 用TensorFlow+40行代码识别手写数字图像
 https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651647305&idx=1&sn=8afa4ea9019c5aaef70a1311afdf505d
 
 研究上千张数据图表后 我学到12条可视化的秘密准则 | 附资源
-http://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651647207&idx=1&sn=05803530428bb5ca6d65783b51d72ea7&chksm=bd4dcb748a3a426286c899fbd1ede844512c0cec40f3185ecdbf308c2ea105f2860d659bd8a3&mpshare=1&scene=23&srcid=0117GE8p5DZmCH6avhTdexWT#rd
+https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651647207&idx=1&sn=05803530428bb5ca6d65783b51d72ea7
 
 2017年1月历史文章汇总--- 机器学习研究会
-http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649677131&idx=5&sn=04f421e197b0e5d31f0e9d38467c9aa7&chksm=87f67457b081fd4112583a008443347f203af2c650b86b73e58ffe88a2a73397a9694e6652c0#rd
+https://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649677131&idx=5&sn=04f421e197b0e5d31f0e9d38467c9aa7
 
 python中matplotlib绘图中文显示问题解决方法
 from matplotlib.font_manager import FontProperties
@@ -143,10 +143,10 @@ fontproperties=font
 
 20170122：
 科技网红Siraj最新油管视频：如何用4分钟搭建神经网络---大数据文摘
-http://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651647587&idx=1&sn=3f19c3a32afcc61d479b71b3069fa4ab&chksm=bd4dc9f08a3a40e6e844754c4b194c70522211c363202030f8310ead9ddc93e57fac6a50c84f&mpshare=1&scene=23&srcid=01221BuJYEnyrKGJZI9VbtVb#rd
+https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651647587&idx=1&sn=3f19c3a32afcc61d479b71b3069fa4ab
 
 利用 Scikit Learn的Python数据预处理实战指南---大数据文摘
-http://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651647587&idx=2&sn=d0d3a69ce141f4015d6e0320048fbe63&chksm=bd4dc9f08a3a40e6eb2056107db353b4b657077ef8d3f999c757a70c97802a2de35241298abe&mpshare=1&scene=23&srcid=0122wLvCLveGMnpmRoOex2lb#rd
+http://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651647587&idx=2&sn=d0d3a69ce141f4015d6e0320048fbe63
 
 
 20170127：
@@ -154,7 +154,7 @@ http://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651647587&idx=2&sn=d0d3a69
 除夕，让心回家。
 
 AI行业实践精选: Kaggle竞赛 —— 2017年房价预测
-http://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247483916&idx=1&sn=a83de5391530049632ba2a0ef4d6a60b&chksm=e99d31f5deeab8e3fab43af3cc05524075b963796d9671d9f54c4f9daef8b82ae2275e45f68d&mpshare=1&scene=23&srcid=0126KcswUkFeSjT0Bmwld4lJ#rd
+http://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247483916&idx=1&sn=a83de5391530049632ba2a0ef4d6a60b
 
 
 20170128
@@ -199,8 +199,7 @@ https://github.com/airingursb
 
 20170208
 机器学习研究会---2017年2月历史文章汇总（0208）
-http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649677237&idx=5&sn=8f44b667f9fbe34fc629087e110a5c7f&chksm=87f674a9b081fdbfc7e0842e3164562b3eea1112e87937a69542c206a7b4c7299628cd234b82#rd
-
+http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649677237&idx=5&sn=8f44b667f9fbe34fc629087e110a5c7f
 机器学习笔记(二)模型评估与选择
 http://lib.csdn.net/article/machinelearning/57736
 
@@ -208,8 +207,7 @@ http://lib.csdn.net/article/machinelearning/57736
 https://segmentfault.com/a/1190000008135000
 
 机器学习研究会---2017年1月历史文章汇总
-http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649677174&idx=5&sn=959846f7de6f14ab88e63a480b192886&chksm=87f6746ab081fd7c95068c03223f1a89a2068c43867637444255c8f7a71e3efcdd4ae18e2044#rd
-
+http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649677174&idx=5&sn=959846f7de6f14ab88e63a480b192886
 
 20170210
 开课吧V---产品经理相关数据课程视频（430个）
@@ -277,7 +275,7 @@ https://zhuanlan.zhihu.com/p/22410917
 
 20170227：
 基于大数据的银行反欺诈的分析报告
-http://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652390893&idx=1&sn=a471549d0c9ad1c058d9c788b975609b&chksm=84da453db3adcc2b6e6ad141865c5c3f2b276df0bd543b04a62b29002dc6f853d798e00cce48&mpshare=1&scene=23&srcid=0227X乎日报推送到kindle
+http://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652390893&idx=1&sn=a471549d0c9ad1c058d9c788b975609b
 https://github.com/Rockyzsu
 
 
@@ -343,7 +341,7 @@ R语言内容学习：粉丝日志
 http://fens.me/
 
 Python实现网络爬虫下载天涯论坛帖子
-https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247483675&idx=1&sn=b07f3c586ba92358f5f124c58c5d4bb8&chksm=ec5ede66db295770c307889d45c3cfd1ba25ff50b3fe9d4cdc82fd8b452e2dd1ed9ce574873f&mpshare=1&scene=23&srcid=0309nly06keOpXWicUtjJyLY#rd
+https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247483675&idx=1&sn=b07f3c586ba92358f5f124c58c5d4bb8
 
 崔庆才的GitHub
 https://github.com/Germey
@@ -352,7 +350,7 @@ python代理爬虫抓豆瓣电影数据
 https://zhuanlan.zhihu.com/p/25658564
 
 推荐 | R语言知识体系概览
-http://mp.weixin.qq.com/s?__biz=MzA3MTM3NTA5Ng==&mid=2651055748&idx=1&sn=6fcd3d216c5c5586ca005729915402e3&chksm=84d9c713b3ae4e052eae75337b004a7361f1342f928415b6148e97649b3a6ffd62f425542db6&mpshare=1&scene=23&srcid=03074juGDSBp7mj5WowDGDd5#rd
+http://mp.weixin.qq.com/s?__biz=MzA3MTM3NTA5Ng==&mid=2651055748&idx=1&sn=6fcd3d216c5c5586ca005729915402e3
 
 Kaggle项目实战1——Digit Recognizer——排名Top10%
 http://blog.csdn.net/u013691510/article/details/43195227
@@ -422,10 +420,10 @@ https://github.com/ty4z2008/Qix/blob/master/dl.md
 
 20170324：
 视频下载神器you-get库（一个可以看片的Python库）
-https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247483691&idx=1&sn=4e2b9d7564e5058e0cb03b3c6d77b945&chksm=ec5ede56db295740d57076fafadc8ef90e3111784f01713a0b0b89895c2187e9f8cdaba3be17&mpshare=1&scene=23&srcid=0320uYwP80RLlccnUXwBQ1qE#rd
+https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247483691&idx=1&sn=4e2b9d7564e5058e0cb03b3c6d77b945
 
 GBDT迭代决策树入门教程
-https://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652390947&idx=1&sn=fda280deb370d81d309121a40cf1120e&chksm=84da46f3b3adcfe5122a9376ce69670ed912d2b568a7383d8ef58ed2c9bc23342ff5bf9e003b&mpshare=1&scene=23&srcid=0321S9CUFWDO6P9jBXKIgAOQ#rd
+https://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652390947&idx=1&sn=fda280deb370d81d309121a40cf1120e
 
 
 20170325：
@@ -433,7 +431,7 @@ Python 操作 MongoDB
 http://www.cnblogs.com/hhh5460/p/5838516.html
 
 黑科技，老司机放码开车用Python等QQ邮箱发邮件
-https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247483700&idx=1&sn=b636352525c117b2490f7b4fd90dfa31&chksm=ec5ede49db29575f3df561dc1e3fc483bff01c484f9642f434cad6885110d9a83f5c0e2eddc5&mpshare=1&scene=23&srcid=0320geSLinwf5k3qtMvtZMm4#rd
+https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247483700&idx=1&sn=b636352525c117b2490f7b4fd90dfa31
 
 机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 1)
 注:机器学习资料篇目一共500条,篇目二开始更新
@@ -459,7 +457,7 @@ http://www.jianshu.com/p/07225f301fc4 或者 http://www.april1985.com/
 
 20170327：
 只需十四步：从零开始掌握Python机器学习（附资源）
-https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650724242&idx=1&sn=703d242700e29813d6c482daf6b211c5&chksm=871b13ecb06c9afa28f8aad729496620078985e4eae8a1296fc407dbd70c1d70fabb3b2817fa&mpshare=1&scene=23&srcid=0322K1XPYmccwF5tPSOdTypg#rd
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650724242&idx=1&sn=703d242700e29813d6c482daf6b211c5
 
 使用Python进行描述性统计
 http://www.cnblogs.com/jasonfreak/p/5441512.html
@@ -492,10 +490,10 @@ GBDT迭代决策树入门教程
 http://www.cnblogs.com/peizhe123/p/5086128.html
 
 史上最全神经网络结构图画图工具介绍，没有之一！
-http://mp.weixin.qq.com/s?__biz=MzAxNTc0Mjg0Mg==&mid=2653284913&idx=1&sn=9673d5d7a8f0a6fb06f03c93ef137096&chksm=802e2824b759a132598fdfb12421145e0fc80e20bd1470515cc45337be5610a3e2d74bebaeb3&mpshare=1&scene=23&srcid=0327dWdUdJzZ0QQxOVAT5z4a#rd
+http://mp.weixin.qq.com/s?__biz=MzAxNTc0Mjg0Mg==&mid=2653284913&idx=1&sn=9673d5d7a8f0a6fb06f03c93ef137096
 
 干货|阿里AI工程师教你如何用CNN RNN Attention解决大规模文本分类问题
-http://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247488340&idx=2&sn=5d456df992322752ab7c65798117bf9f&chksm=903ced4ca74b645a186c664941f83350932c883fc1db265103b840af7042bec5cc62923d7040&mpshare=1&scene=23&srcid=0327AJFRt8TXcAi7WVgl9S68#rd
+http://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247488340&idx=2&sn=5d456df992322752ab7c65798117bf9f
 
 
 20170328：
@@ -568,6 +566,7 @@ https://github.com/ipreacher/tricks/tree/master/zhihu_img#zhihu_img
 
 【资源】只需十四步：从零开始掌握Python机器学习
 https://mp.weixin.qq.com/s?__biz=MzAxMzA2MDYxMw==&mid=2651560222&idx=1&sn=72f8d0ffd7b391e7a40336e8957130e3
+
 Learn R | 机器学习中的分类器评价（ROC与AUC的R实现）
 https://zhuanlan.zhihu.com/p/26106488
 
