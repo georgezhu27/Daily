@@ -610,6 +610,12 @@ http://blog.csdn.net/hehainan_86/article/details/38398031
 http://blog.csdn.net/wzgl__wh
 
 
+20170410：
+聚类算法概述(k-Means++/FCM/凝聚层次聚类/DBSCAN)
+https://github.com/HaoyuHu/clusterAnalysis
+
+拉钩 | 豆瓣 | 链家爬虫项目的合集
+https://github.com/HunterChao/Crawler
 
 
 
