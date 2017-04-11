@@ -618,5 +618,22 @@ https://github.com/HaoyuHu/clusterAnalysis
 https://github.com/HunterChao/Crawler
 
 
+20170411：
+爬取起点中文网月票榜前500名网络小说介绍
+https://zhuanlan.zhihu.com/p/26255754
+
+[DM] 都是套路: 从上帝视角看透时间序列和数据挖掘
+https://mp.weixin.qq.com/s?__biz=MzI3NTA0MzM1OQ==&mid=2651615410&idx=1&sn=7e891a7ab18ca44facfad0242e3044f7
+
+【Python】寻找电影品味相似的用户并推荐相关电影
+http://blog.csdn.net/ns2250225/article/details/43794599
+
+机器学习-组合算法总结（Bootstraping，装袋bagging，提升Boosting与Adaboost，bagging与boosting的区别，Random 
+
+Forest，Gradient boosting）
+http://www.csuldw.com/2015/07/22/2015-07-22%20%20ensemble/
+
+sklearn中聚类（部分）
+http://blog.csdn.net/good_boyzq/article/details/55000171
 
 
