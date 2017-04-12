@@ -637,3 +637,22 @@ sklearn中聚类（部分）
 http://blog.csdn.net/good_boyzq/article/details/55000171
 
 
+
+
+20170412：
+自然语言处理库之snowNLP
+https://mp.weixin.qq.com/s?__biz=MzI1MTE2ODg4MA==&mid=2650068142&idx=1&sn=2074bd291588993f7b2e51967ea79c30
+
+
+
+
+
+
+
+
+
+
+
+
+
+
