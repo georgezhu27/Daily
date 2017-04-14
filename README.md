@@ -638,13 +638,18 @@ http://blog.csdn.net/good_boyzq/article/details/55000171
 
 
 
-
 20170412：
 自然语言处理库之snowNLP
 https://mp.weixin.qq.com/s?__biz=MzI1MTE2ODg4MA==&mid=2650068142&idx=1&sn=2074bd291588993f7b2e51967ea79c30
 
 
 
+20170414：
+Deep Learning 中文翻译
+https://github.com/exacity/deeplearningbook-chinese
+
+Kaggle-Ensemble-Guide（GitHub上一个集成模型的代码集合）
+https://github.com/MLWave/Kaggle-Ensemble-Guide
 
 
 
