@@ -653,6 +653,32 @@ https://github.com/MLWave/Kaggle-Ensemble-Guide
 
 
 
+20170415：
+利用Scrapy爬取所有知乎用户详细信息并存至MongoDB（附源码）
+https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247483771&idx=1&sn=b94ef651ac39b2f8b28579d0420a0abd
+
+
+
+20160416：
+来简书，看看数据分析多有趣
+http://www.jianshu.com/p/18a067d2823c
+数据虫巢官网(mite8.com)站点源码，包括站点基础数据爬取代码，以及重构的NLP分词工具等。
+https://github.com/blogchong/mite8-com
+
+知乎专栏【数据科学笔记本】，写一些算法的细节
+https://zhuanlan.zhihu.com/The-Art-of-Data
+
+AI 技术讲座精选：Python中使用LSTM网络进行时间序列预测
+https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247485000&idx=1&sn=fd1288cb7dc76b92091668aa5cdf6ddd
+
+手把手教你搭建谷歌TensorFlow深度学习开发环境！
+https://zhuanlan.zhihu.com/p/26389992
+
+开发自己的R包sayHello
+https://zhuanlan.zhihu.com/p/26333013
+
+爬虫入门到精通-mongodb的基本使用
+https://zhuanlan.zhihu.com/p/26394199
 
 
 
