@@ -682,6 +682,27 @@ https://zhuanlan.zhihu.com/p/26394199
 
 
 
+20170417:
+Python实现遗传算法求解n-queens问题（1）
+http://blog.csdn.net/oxuzhenyi/article/details/70037833
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
