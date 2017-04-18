@@ -687,7 +687,17 @@ Python实现遗传算法求解n-queens问题（1）
 http://blog.csdn.net/oxuzhenyi/article/details/70037833
 
 
+20170418：
+TensorFlow和深度学习教程
+https://github.com/wagamamaz/tensorflow-tutorial
 
+B站用户数据报告（Web App）https://github.com/airingursb/bilibili-report
+B站用户爬虫：http://github.com/airingursb/bilibili-user
+B站视频爬虫：http://github.com/airingursb/bilibili-video
+B站弹幕下载器：http://github.com/airingursb/bilibili-danmu
+
+干货|教你如何在机器学习竞赛中更胜一筹
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247489277&idx=2&sn=c12c513839a3bb3b7e55698c1127faf6
 
 
 
