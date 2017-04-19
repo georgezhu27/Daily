@@ -701,7 +701,15 @@ https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247489277&idx=2&sn=c12c51
 
 
 
+20170419：
+手把手教你使用ggplot2进行数据分布探索
+https://mp.weixin.qq.com/s?__biz=MzI1NDE1MDk2Mg==&mid=2247484680&idx=1&sn=721a623ac4ecf4b1755465e8ee98ce99
 
+“数据达人”养成记（R语言）
+https://zhuanlan.zhihu.com/p/26408538
+
+机器学习基础-高质量博客收藏
+https://zhuanlan.zhihu.com/p/26082820
 
 
 
