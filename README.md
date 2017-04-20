@@ -716,7 +716,8 @@ https://zhuanlan.zhihu.com/p/26082820
 20170420：
 简书python作者---treelake（有很多有趣的案例）
 http://www.jianshu.com/u/66f24f2c0f36
-
+使用文本挖掘实现站点个性化推荐
+https://zhuanlan.zhihu.com/p/26460781
 
 
 
