@@ -725,7 +725,8 @@ https://zhuanlan.zhihu.com/p/26454956
 
 k-means聚类：讲解与实现
 http://aljun.me/post/19
-
+KNN算法讲解及其实现
+http://aljun.me/post/20
 
 
 
