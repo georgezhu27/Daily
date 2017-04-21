@@ -719,7 +719,12 @@ http://www.jianshu.com/u/66f24f2c0f36
 使用文本挖掘实现站点个性化推荐
 https://zhuanlan.zhihu.com/p/26460781
 
+20170421：
+Hellobi Live | 4月18日数据挖掘快速上手之R语言实践课件分享
+https://zhuanlan.zhihu.com/p/26454956
 
+k-means聚类：讲解与实现
+http://aljun.me/post/19
 
 
 
