@@ -747,6 +747,11 @@ https://www.zhihu.com/question/22077960/answer/89277136
 漫谈 Clustering 系列
 http://blog.pluskid.org/?page_id=78
 
+精确率、召回率、F1 值、ROC、AUC 各自的优缺点是什么？
+https://www.zhihu.com/question/30643044/answer/48955833
+
+怎样使用 GitHub？
+https://www.zhihu.com/question/20070065/answer/79557687
 
 
 
