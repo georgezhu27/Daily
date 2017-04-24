@@ -737,4 +737,33 @@ http://www.runoob.com/
 
 
 
+20170424：
+当Python遇上微信，可以这么玩（微信好友男女比例、好友个性签名词云）
+https://zhuanlan.zhihu.com/p/26514576
+
+数据挖掘中常用的数据清洗方法有哪些？
+https://www.zhihu.com/question/22077960/answer/89277136
+
+漫谈 Clustering 系列
+http://blog.pluskid.org/?page_id=78
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
