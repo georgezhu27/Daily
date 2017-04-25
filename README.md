@@ -754,7 +754,18 @@ https://www.zhihu.com/question/30643044/answer/48955833
 https://www.zhihu.com/question/20070065/answer/79557687
 
 
+20170425：
+R数据处理|基础篇（二）
+https://mp.weixin.qq.com/s?__biz=MzA3MTM3NTA5Ng==&mid=2651055931&idx=1&sn=70938b5da132749cea8994b65f1c5c1c
 
+动态地理信息可视化——leaflet构造路径图
+https://mp.weixin.qq.com/s?__biz=MzA3Njc0NzA0MA==&mid=2653190684&idx=1&sn=ff78d64a317a06dfde62313a6d1e2d0c
+
+Scrapy抓手机App数据（今日头条）Scrapy第四篇：APP抓取 | 存入MongoDB
+https://zhuanlan.zhihu.com/p/26527575
+
+Zhihu API for Humans | 试图构建一个更加简洁、优雅的、Pythonic 的知乎 API。
+https://github.com/lzjun567/zhihu-api
 
 
 
