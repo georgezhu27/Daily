@@ -769,7 +769,9 @@ https://github.com/lzjun567/zhihu-api
 
 
 
-
+20170426：
+itchat-python 微信封装包-实现群发检测好友功能
+https://zhuanlan.zhihu.com/p/26554533
 
 
 
