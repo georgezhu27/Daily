@@ -774,7 +774,9 @@ itchat-python 微信封装包-实现群发检测好友功能
 https://zhuanlan.zhihu.com/p/26554533
 
 
-
+20170428：
+GBDT入门教程之原理、所解决的问题、应用场景讲解
+https://mp.weixin.qq.com/s?__biz=MzIxODM4MjA5MA==&mid=2247484772&idx=1&sn=3ee9e2e63fb7161241ba55ac85377a25
 
 
 
