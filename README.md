@@ -780,7 +780,9 @@ https://mp.weixin.qq.com/s?__biz=MzIxODM4MjA5MA==&mid=2247484772&idx=1&sn=3ee9e2
 
 
 
-
+20170429：
+python与redis的初次碰撞——把玩redis数据库的一点心得
+https://zhuanlan.zhihu.com/p/26616697
 
 
 
