@@ -784,6 +784,10 @@ https://mp.weixin.qq.com/s?__biz=MzIxODM4MjA5MA==&mid=2247484772&idx=1&sn=3ee9e2
 python与redis的初次碰撞——把玩redis数据库的一点心得
 https://zhuanlan.zhihu.com/p/26616697
 
+文本分析之网络关系图（Python）
+https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247483804&idx=1&sn=618022404b1d7a7ff4c3d989c7451d36
+
+
 
 
 
