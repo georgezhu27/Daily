@@ -789,6 +789,10 @@ https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247483804&idx=1&sn=618022
 
 
 
+20170430：
+Kaggle 首战拿银总结 | 入门指导 (长文、干货）
+https://zhuanlan.zhihu.com/p/26645088
+
 
 
 
