@@ -793,7 +793,7 @@ https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247483804&idx=1&sn=618022
 Kaggle 首战拿银总结 | 入门指导 (长文、干货）
 https://zhuanlan.zhihu.com/p/26645088
 
-
-
+大数据在保险行业的应用实践（数据分析、机器学习的流程，很不错）
+https://mp.weixin.qq.com/s?__biz=MzI3MjU5MzIyOA==&mid=2247483971&idx=1&sn=f52412e83e8ce64df69bd9c677c70ca9
 
 
