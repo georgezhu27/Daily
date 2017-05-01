@@ -804,6 +804,8 @@ http://blog.163.com/jackylau_v/blog/static/175754040201111511753770/
 整理开源了一些迁移学习资料、论文与代码---王晋东不在家
 https://zhuanlan.zhihu.com/p/26657579
 
+一些机器学习的资源---王晋东不在家
+https://github.com/jindongwang/MachineLearning
 
 
 
