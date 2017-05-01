@@ -797,3 +797,28 @@ https://zhuanlan.zhihu.com/p/26645088
 https://mp.weixin.qq.com/s?__biz=MzI3MjU5MzIyOA==&mid=2247483971&idx=1&sn=f52412e83e8ce64df69bd9c677c70ca9
 
 
+20170501:
+python自带re模块正则表达式去除html标签  
+http://blog.163.com/jackylau_v/blog/static/175754040201111511753770/
+
+整理开源了一些迁移学习资料、论文与代码---王晋东不在家
+https://zhuanlan.zhihu.com/p/26657579
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
