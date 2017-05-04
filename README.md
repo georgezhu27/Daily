@@ -823,6 +823,13 @@ http://blog.devtang.com/2015/11/14/charles-introduction/
 kaggle牛人---DMITRY EFIMOV(可以看一看解题思路和代码)
 http://www.efimov-ml.com/about-me.html
 
+20170504：
+备战双十一，scrapy框架爬取京东优惠券信息（文末有GitHub代码地址）
+https://zhuanlan.zhihu.com/p/23330359
+
+一行R代码来实现繁琐的可视化
+https://mp.weixin.qq.com/s?__biz=MzA3MTM3NTA5Ng==&mid=2651055965&idx=1&sn=2f2562d2165eaf625293fd4b0cb36763
+
 
 
 
