@@ -818,7 +818,6 @@ http://blog.devtang.com/2015/11/14/charles-introduction/
 
 
 
-
 20170503:
 kaggle牛人---DMITRY EFIMOV(可以看一看解题思路和代码)
 http://www.efimov-ml.com/about-me.html
@@ -834,6 +833,15 @@ https://mp.weixin.qq.com/s?__biz=MzA3MTM3NTA5Ng==&mid=2651055965&idx=1&sn=2f2562
 
 
 
+20170505：
+从零开始的 Python 爬虫速成指南（scrapy模块介绍，入门可看）
+https://zhuanlan.zhihu.com/p/26301354
+
+DataCastle 大学生助学金精准资助预测（样本不均衡条件下的多分类任务）第7/352名解决方案
+https://github.com/kuhung/Student-Grants
+
+GuHong的github上有多个比赛的解题思路和代码（比如上面那个），可以关注。
+https://github.com/kuhung
 
 
 
