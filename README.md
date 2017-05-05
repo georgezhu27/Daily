@@ -843,6 +843,8 @@ https://github.com/kuhung/Student-Grants
 GuHong的github上有多个比赛的解题思路和代码（比如上面那个），可以关注。
 https://github.com/kuhung
 
+精确率、召回率、F1 值、ROC、AUC 各自的优缺点是什么？（竹间智能 Emotibot的回答）
+https://www.zhihu.com/question/30643044/answer/161955532
 
 
 
