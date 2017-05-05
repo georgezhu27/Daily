@@ -846,7 +846,8 @@ https://github.com/kuhung
 精确率、召回率、F1 值、ROC、AUC 各自的优缺点是什么？（竹间智能 Emotibot的回答）
 https://www.zhihu.com/question/30643044/answer/161955532
 
-
+DIY 留学申请全攻略
+https://zhuanlan.zhihu.com/p/26724768
 
 
 
