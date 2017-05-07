@@ -833,7 +833,7 @@ https://mp.weixin.qq.com/s?__biz=MzA3MTM3NTA5Ng==&mid=2651055965&idx=1&sn=2f2562
 
 
 
-20170505：
+20170505:
 从零开始的 Python 爬虫速成指南（scrapy模块介绍，入门可看）
 https://zhuanlan.zhihu.com/p/26301354
 
@@ -851,10 +851,12 @@ https://zhuanlan.zhihu.com/p/26724768
 
 
 
-20170506：
+20170506:
 仅用四行代码就可以挖掘你的QQ聊天记录
 http://youerning.blog.51cto.com/10513771/1712775
 
+
+20170507:
 大数据时代里，运维工程师的自我修养i
 http://youerning.blog.51cto.com/10513771/1726349
 
