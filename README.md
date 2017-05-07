@@ -861,4 +861,21 @@ http://youerning.blog.51cto.com/10513771/1726349
 机器学习笔记（十一）实践之数据竞赛的套路---王大宝的CD(它的其他机器学习内容也可以看看)
 http://blog.csdn.net/sinat_22594309/article/details/68951145
 
+机器学习中用来防止过拟合的方法有哪些？
+https://www.zhihu.com/question/59201590
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
