@@ -850,7 +850,6 @@ DIY 留学申请全攻略
 https://zhuanlan.zhihu.com/p/26724768
 
 
-
 20170506:
 仅用四行代码就可以挖掘你的QQ聊天记录
 http://youerning.blog.51cto.com/10513771/1712775
@@ -865,6 +864,14 @@ http://blog.csdn.net/sinat_22594309/article/details/68951145
 
 机器学习中用来防止过拟合的方法有哪些？
 https://www.zhihu.com/question/59201590
+
+python数据分析之股票实战
+http://youerning.blog.51cto.com/10513771/1712775
+
+
+20170508:
+详解Kaggle房价预测竞赛优胜方案：用Python进行全面数据探索
+http://www.36dsj.com/archives/79218
 
 
 
