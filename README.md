@@ -873,6 +873,29 @@ http://youerning.blog.51cto.com/10513771/1712775
 详解Kaggle房价预测竞赛优胜方案：用Python进行全面数据探索
 http://www.36dsj.com/archives/79218
 
+ECharts+Python 给你的数据做“美颜”
+https://zhuanlan.zhihu.com/p/24952863
+
+备战双十一，scrapy框架爬取京东优惠券信息
+https://github.com/lidingke/JDcoupons
+
+kaggle大牛---DMITRY EFIMOV
+http://www.efimov-ml.com/about-me.html
+
+一行R代码来实现繁琐的可视化（ggfortify包）比较全面，还在不断补充中
+https://mp.weixin.qq.com/s?__biz=MzA3MTM3NTA5Ng==&mid=2651055965&idx=1&sn=2f2562d2165eaf625293fd4b0cb36763
+
+【技术干货】国外大神 手把手教你通过Python机器学习租到低价的公寓
+https://zhuanlan.zhihu.com/p/26672223
+
+介绍用Gephi进行数据可视化
+https://zhuanlan.zhihu.com/p/26718634
+
+
+20170509:
+Learn R | 统计学习之时间序列分析（一）
+https://zhuanlan.zhihu.com/p/26700427
+
 
 
 
