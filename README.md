@@ -898,7 +898,9 @@ https://zhuanlan.zhihu.com/p/26700427
 
 
 
-
+20170510:
+机器学习中用来防止过拟合的方法有哪些？
+https://www.zhihu.com/question/59201590
 
 
 
