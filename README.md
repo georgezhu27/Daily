@@ -902,7 +902,8 @@ https://zhuanlan.zhihu.com/p/26700427
 机器学习中用来防止过拟合的方法有哪些？
 https://www.zhihu.com/question/59201590
 
-
+为什么在实际的 kaggle 比赛中 gbdt 和 random forest 效果非常好？
+https://www.zhihu.com/question/51818176/answer/127706751
 
 
 
