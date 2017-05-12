@@ -920,6 +920,8 @@ https://mp.weixin.qq.com/s?__biz=MzAxMjUyNDQ5OA==&mid=2653553087&idx=1&sn=df05d2
 雪球网沪深全站股票评论爬虫
 https://mp.weixin.qq.com/s?__biz=MzAxMjUyNDQ5OA==&mid=2653553138&idx=1&sn=567db0df6af6155232d71ae379494481
 
+【干货】Kaggle 数据挖掘比赛经验分享
+https://mp.weixin.qq.com/s/BE1mfmKJTsDSwWi16mllNA?luicode=20000061&lfid=4105595465952913&featurecode=20000180&sourceType=weixin
 
 
 
