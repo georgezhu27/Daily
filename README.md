@@ -907,6 +907,40 @@ https://www.zhihu.com/question/51818176/answer/127706751
 
 
 
+20170511:
+【可视化Scikit-Learn流程搭建界面】by [Alvaro Bermejo] GitHub
+https://github.com/AlvarBer/Persimmon
+
+一篇文章教你彻底理解用于字符串匹配的KMP算法
+https://mp.weixin.qq.com/s?__biz=MzIxMjc2NTgyOQ==&mid=2247484077&idx=1&sn=39e4b61cf3e2a04db92d312a44c0f471
+
+Python分布式抓取和分析京东商城评价
+https://mp.weixin.qq.com/s?__biz=MzAxMjUyNDQ5OA==&mid=2653553087&idx=1&sn=df05d21ac885572717f23b2a52404080
+
+雪球网沪深全站股票评论爬虫
+https://mp.weixin.qq.com/s?__biz=MzAxMjUyNDQ5OA==&mid=2653553138&idx=1&sn=567db0df6af6155232d71ae379494481
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
