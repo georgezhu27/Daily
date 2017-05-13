@@ -932,7 +932,8 @@ https://mp.weixin.qq.com/s?__biz=MzI1NDE1MDk2Mg==&mid=2247484685&idx=1&sn=4dc3ac
 ggplot2你需要知道的都在这
 https://mp.weixin.qq.com/s?__biz=MzA3MTM3NTA5Ng==&mid=2651056029&idx=1&sn=7bb59e8b448f8ff56664dded26317169
 
-
+干货 | 携程酒店浏览客户流失概率预测
+https://mp.weixin.qq.com/s/EwQOpbOaItyvTCKRtDxlVA?scene=25#wechat_redirect
 
 
 
