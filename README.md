@@ -907,7 +907,7 @@ https://www.zhihu.com/question/51818176/answer/127706751
 
 
 
-20170511:
+20170512:
 【可视化Scikit-Learn流程搭建界面】by [Alvaro Bermejo] GitHub
 https://github.com/AlvarBer/Persimmon
 
@@ -921,9 +921,16 @@ https://mp.weixin.qq.com/s?__biz=MzAxMjUyNDQ5OA==&mid=2653553087&idx=1&sn=df05d2
 https://mp.weixin.qq.com/s?__biz=MzAxMjUyNDQ5OA==&mid=2653553138&idx=1&sn=567db0df6af6155232d71ae379494481
 
 【干货】Kaggle 数据挖掘比赛经验分享
-https://mp.weixin.qq.com/s/BE1mfmKJTsDSwWi16mllNA?luicode=20000061&lfid=4105595465952913&featurecode=20000180&sourceType=weixin
+https://mp.weType=weixin
 
 
+
+20170513:
+如何使用R语言解决可恶的脏数据
+https://mp.weixin.qq.com/s?__biz=MzI1NDE1MDk2Mg==&mid=2247484685&idx=1&sn=4dc3ac1235fc4b520a057f1d4d5f7d7d
+
+ggplot2你需要知道的都在这
+https://mp.weixin.qq.com/s?__biz=MzA3MTM3NTA5Ng==&mid=2651056029&idx=1&sn=7bb59e8b448f8ff56664dded26317169
 
 
 
