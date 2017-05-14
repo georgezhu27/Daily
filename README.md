@@ -937,7 +937,9 @@ https://mp.weixin.qq.com/s/EwQOpbOaItyvTCKRtDxlVA?scene=25#wechat_redirect
 
 
 
-
+20170514:
+为什么Kaggle数据分析竞赛者偏爱XGBoost
+https://m.aliyun.com/yunqi/articles/70770
 
 
 
