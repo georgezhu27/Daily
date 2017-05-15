@@ -943,7 +943,22 @@ https://m.aliyun.com/yunqi/articles/70770
 
 
 
+20170515:
+sklearn做交叉验证(返回结果的类型，可以自定义)
+http://www.thinksaas.cn/topics/0/529/529799.html
 
+【机器学习】如何做出一个更好的Machine Learning预测模型
+https://zhuanlan.zhihu.com/p/25013834
+
+
+2017年4月历史文章汇总(有前几个月汇总的链接）
+https://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649677629&idx=5&sn=b7834a2bbaf3275524063fc1441bdb73
+
+Selenium 爬取淘宝实战练习
+https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247483857&idx=1&sn=878f1d7ec20ca80aced516efd874d2d2
+
+中文数据预处理材料
+https://github.com/dongxiexidian/Chinese
 
 
 
