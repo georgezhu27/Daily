@@ -963,7 +963,9 @@ https://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649677629&idx=5&sn=b7834a
 
 
 
-
+20170516:
+Scrapy之断点续爬
+https://zhuanlan.zhihu.com/p/26810901
 
 
 
