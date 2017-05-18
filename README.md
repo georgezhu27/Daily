@@ -968,7 +968,9 @@ Scrapy之断点续爬
 https://zhuanlan.zhihu.com/p/26810901
 
 
-
+20170517:
+让好奇心驱动人工智能：UC Berkeley提出自监督预测算法
+http://jiqizhixin.com/article/2852
 
 
 
