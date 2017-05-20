@@ -973,6 +973,37 @@ https://zhuanlan.zhihu.com/p/26810901
 http://jiqizhixin.com/article/2852
 
 
+20170520:
+AR(I)MA时间序列建模过程——步骤和python代码
+https://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652391163&idx=1&sn=b922c131154f0b70f4a1205c2f3eea3e
+
+ROC曲线以及评估指标F1-Score, recall, precision-整理版
+https://mp.weixin.qq.com/s/iRDfbO2WUjNoQ31lUS4y2g
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
