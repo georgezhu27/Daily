@@ -980,7 +980,8 @@ https://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652391163&idx=1&sn=b922c1
 ROC曲线以及评估指标F1-Score, recall, precision-整理版
 https://mp.weixin.qq.com/s/iRDfbO2WUjNoQ31lUS4y2g
 
-
+回归、分类与聚类：三大方向剖解机器学习算法的优缺点
+https://zhuanlan.zhihu.com/p/27013861
 
 
 
